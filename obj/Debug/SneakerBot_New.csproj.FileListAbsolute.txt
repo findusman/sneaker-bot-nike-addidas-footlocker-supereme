@@ -1,0 +1,209 @@
+D:\CypexSoft\SneakerBot_New\bin\Debug\DXApplication1.exe.config
+D:\CypexSoft\SneakerBot_New\bin\Debug\DXApplication1.exe
+D:\CypexSoft\SneakerBot_New\bin\Debug\DXApplication1.pdb
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Data.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\System.Data.SqlServerCe.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Data.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmAccountInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmBillingInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmProxyInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucAccountInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucBillingInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucProxyInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.XtraForm1.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.XtraForm2.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.GenerateResource.cache
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.exe.licenses
+D:\CypexSoft\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.CoreCompileInputs.cache
+D:\CypexSoft\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.CopyComplete
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.exe
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.pdb
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmTaskInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucTaskInfo.resources
+D:\CypexSoft\SneakerBot_New\obj\Debug\DXApplication1.frmMain.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DXApplication1.exe.config
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DXApplication1.exe
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DXApplication1.pdb
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Data.Desktop.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Data.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Printing.v20.1.Core.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Utils.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraBars.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraEditors.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraGrid.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraLayout.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraPrinting.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\System.Data.SqlServerCe.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Core.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Drawing.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Sparkline.v20.1.Core.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.RichEdit.v20.1.Core.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraTreeList.v20.1.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Office.v20.1.Core.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Data.Desktop.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Data.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Printing.v20.1.Core.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Utils.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraBars.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraEditors.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraGrid.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraLayout.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraPrinting.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Core.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Pdf.v20.1.Drawing.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Sparkline.v20.1.Core.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.RichEdit.v20.1.Core.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.XtraTreeList.v20.1.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\DevExpress.Office.v20.1.Core.xml
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Data.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Data.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Data.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Data.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Printing.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Utils.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Utils.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Utils.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Utils.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraBars.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraBars.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraBars.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraBars.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraEditors.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraGrid.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraLayout.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraPrinting.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Pdf.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Sparkline.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.RichEdit.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.XtraTreeList.v20.1.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\de\DevExpress.Office.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\es\DevExpress.Office.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ja\DevExpress.Office.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\bin\Debug\ru\DevExpress.Office.v20.1.Core.resources.dll
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\SneakerBot_New.csprojAssemblyReference.cache
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmAccountInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmBillingInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmProxyInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.Forms.frmTaskInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.frmMain.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucAccountInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.Properties.Resources.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucBillingInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucProxyInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.PRESENTATION_LAYER.UserControls.ucTaskInfo.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.XtraForm1.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.XtraForm2.resources
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.GenerateResource.cache
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.exe.licenses
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.CoreCompileInputs.cache
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\SneakerBot_New.csproj.CopyComplete
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.exe
+D:\Development\C# Desktop Devlopment\Sneaker Bot -\Till 5 June 2021\SneakerBot_New\obj\Debug\DXApplication1.pdb
